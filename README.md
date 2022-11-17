@@ -1,2 +1,2 @@
-# TechAllureGrandida
-Group repository for all projects carried out by Tech Allure during orientation 
+# Grandida
+All projects and assignment taken on while learning Web 3 at Grandida LLC
