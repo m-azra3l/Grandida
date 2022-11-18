@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import { Layout } from 'antd';
+const { Header, Footer, Content } = Layout;
 
 function App() {
   return (
