@@ -1,3 +1,8 @@
+# blocMusic
+## DApp and Smart Contract
+### First Project
+This DApp was created to stream music NFTs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
