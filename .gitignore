@@ -4,3 +4,25 @@
 *.sln
 *.pyproj
 Solidity/blocmusic/npm_modules/
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Solidity/blocmusic/.pnp
+.pnp.js
+
+# testing
+Solidity/blocmusic/coverage
+
+# production
+Solidity/blocmusic/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
